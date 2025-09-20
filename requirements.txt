@@ -22,7 +22,7 @@ python-docx
 cohere
 sentence-transformers
 
-
+matplotlib
 
 # must install this --pip install "unstructured[pdf]"
 
