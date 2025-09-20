@@ -23,6 +23,7 @@ cohere
 sentence-transformers
 
 matplotlib
+tavily
 
 # must install this --pip install "unstructured[pdf]"
 
